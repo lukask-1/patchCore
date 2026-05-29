@@ -1,0 +1,8 @@
+.venv/
+/data
+/results
+*.pdf
+__pycache__
+.DS_Store
+*.png
+/anomaly_results

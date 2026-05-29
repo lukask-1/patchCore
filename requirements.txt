@@ -1,0 +1,5 @@
+anomalib==2.4.2
+matplotlib
+numpy
+Pillow
+torch
